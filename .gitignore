@@ -1,0 +1,13 @@
+# https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+# Test files
+*.test
+**/test
+# Executables
+*.exe
+*.exe~
+# Virtual Environments
+.myenv/
+# Logs
+**/logs/
+*.log
+*.tmp
